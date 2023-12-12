@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer / Programming Enthusiast
 --------------------------------------
 
-I LOVE CODE! I've been learning to code for 3 years now. I started learning using HTML and CSS. And now I have known multiple web technologies.
+I LOVE CODE! I've been learning to code for a year now. I started learning using HTML and CSS. And now I have known multiple web technologies.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portforlio Website](http://vierdev-myportfolio.netlify.app/)
